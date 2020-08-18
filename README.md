@@ -15,3 +15,6 @@
       If you're using android: 
         adb reverse tcp:3000 tcp:3000  
         yarn json-server server.json -d 1000 -w
+
+### Print
+<img src="print.png">
